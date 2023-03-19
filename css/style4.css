@@ -1,0 +1,11 @@
+.table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .cell {
+    display: table-cell;
+    padding: 10px;
+    border: 1px solid black;
+  }
